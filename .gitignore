@@ -1,0 +1,22 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Version Control System/*
+!/Version Control System/task/
+/Version Control System/task/*
+!/Version Control System/task/src
+
+# Project exclude paths
+/Topics/Introduction to collections/Sorting a list of positive and negative integers/out/
+/Topics/Introduction to collections/Sorting a list of positive and negative integers/out/production/classes/
+/Topics/Introduction to collections/Theory/out/
+/Topics/Introduction to collections/Theory/out/production/classes/
